@@ -1,16 +1,19 @@
 {
-  "name": "pretty-logger",
+  "name": "@krio0/pretty-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A utility tool designed to enhance console log outputs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krio0/pretty-logger.git"
+  },
+  "author": "krio0",
+  "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0",
-    "moment": "^2.30.1"
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1"
   }
 }
