@@ -1,6 +1,6 @@
 {
   "name": "@krio0/pretty-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility tool designed to enhance console log outputs",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "nodejs-env-checker": "^1.0.10"
   }
 }
